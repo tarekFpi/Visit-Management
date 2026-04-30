@@ -1,8 +1,12 @@
-# app screenshot
+<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/b0b1bc3c-10f4-4e2f-ad90-b1cbf171c809" /># app screenshot
 
-![WhatsApp Image 2025-10-31 at 21 43 44_a2766cdf](https://github.com/user-attachments/assets/a5d2f379-9288-4d5d-b5b3-3109f3e89e82)
+<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/be630575-7489-4119-8160-bff3302e104e" />
 
+<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/25650f25-043e-44ff-83c2-fe8eba229f63" />
 
- ![WhatsApp Image 2025-10-31 at 21 43 44_c32c845d](https://github.com/user-attachments/assets/28778ef2-71ab-4b46-8377-1ec55ef4729e)
-![WhatsApp Image 2025-10-31 at 21 43 42_0d58d8a2](https://github.com/user-attachments/assets/42cee6b4-b59f-4c94-bebc-eb5674a294d0)
-![WhatsApp Image 2025-10-31 at 21 43 41_11a14165](https://github.com/user-attachments/assets/a688f5b2-3b8f-4d0c-85bd-87f4216cb865)
+<img width="540" height="1110" alt="image" src="https://github.com/user-attachments/assets/9961b777-f8ba-4fdb-9fee-b47aaa88d7d5" />
+
+ <img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/704e6dd7-ecc7-48d2-a40d-e49a119c2c7a" />
+
+ <img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/844c1c38-9743-4dbd-a534-bcaacc22b8df" />
+
